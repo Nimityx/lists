@@ -1,0 +1,14 @@
+# Title: Nimityx/lists/filter.txt
+#
+# This list of filter lists file is a merged collection of filter lists from reputable sources
+#
+# ===============================================================
+
+# List begin here
+
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt
+https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
