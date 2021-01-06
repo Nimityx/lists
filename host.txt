@@ -1,4 +1,4 @@
-# Title: Nimityx/lists
+# Title: Nimityx/lists/host.txt
 #
 # This list of host lists file is a merged collection of host lists from reputable sources
 #
