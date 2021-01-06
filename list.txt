@@ -1,0 +1,50 @@
+# Title: Nimityx/list-of-host-lists
+#
+# This list of host lists file is a merged collection of host lists from reputable sources
+#
+# ===============================================================
+
+# List begin here
+
+#StevenBlack's hosts
+# Basic version below
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Complete version below
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
+
+https://mirror1.malwaredomains.com/files/justdomains
+# Archived version below
+https://web.archive.org/web/20200703202858if_/http://mirror1.malwaredomains.com/files/justdomains
+
+http://sysctl.org/cameleon/hosts
+# Proxied version below
+https://fileproxy.miniurl.repl.co/?url=http%3A%2F%2Fsysctl.org%2Fcameleon%2Fhosts
+
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+# Archived version below
+https://web.archive.org/web/20190621160723if_/https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+
+https://hosts-file.net/ad_servers.txt
+# Archived version below
+https://web.archive.org/web/20200308144426if_/http://hosts-file.net/ad_servers.txt
+
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
+
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+# Archived version below
+https://web.archive.org/web/20190926081322if_/https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+
+https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
+# Archived version below
+https://web.archive.org/web/20181028164033if_/https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
+
+https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
+# Archived version below
+https://web.archive.org/web/20180108125338if_/https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt	
