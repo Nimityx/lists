@@ -12,6 +12,16 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Complete version below
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
+https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
+
 https://mirror1.malwaredomains.com/files/justdomains
 # Archived version below
 https://web.archive.org/web/20200703202858if_/http://mirror1.malwaredomains.com/files/justdomains
@@ -24,18 +34,9 @@ https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 # Archived version below
 https://web.archive.org/web/20190621160723if_/https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-
 https://hosts-file.net/ad_servers.txt
 # Archived version below
 https://web.archive.org/web/20200308144426if_/http://hosts-file.net/ad_servers.txt
-
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/list.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
 
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 # Archived version below
@@ -56,8 +57,6 @@ https://web.archive.org/web/20181028164033if_/https://ransomwaretracker.abuse.ch
 https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 # Archived version below
 https://web.archive.org/web/20181028164032if_/https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
-
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 https://smokingwheels.github.io/Pi-hole/allhosts
 # Proxied version below
