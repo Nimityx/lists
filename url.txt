@@ -1,0 +1,10 @@
+# Title: Nimityx/lists/url.txt
+#
+# This list of URL lists file is a merged collection of URL lists from reputable sources
+#
+# ===============================================================
+
+# List begin here
+
+# BitTorrent
+https://ngosang.github.io/trackerslist/trackers_all.txt
