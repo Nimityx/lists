@@ -1,4 +1,4 @@
-# Title: Nimityx/list-of-host-lists
+# Title: Nimityx/lists
 #
 # This list of host lists file is a merged collection of host lists from reputable sources
 #
@@ -47,4 +47,18 @@ https://web.archive.org/web/20181028164033if_/https://ransomwaretracker.abuse.ch
 
 https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
 # Archived version below
-https://web.archive.org/web/20180108125338if_/https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt	
+https://web.archive.org/web/20180108125338if_/https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
+
+https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
+# Archived version below
+https://web.archive.org/web/20181028164033if_/https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
+
+https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+# Archived version below
+https://web.archive.org/web/20181028164032if_/https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+https://smokingwheels.github.io/Pi-hole/allhosts
+# Proxied version below
+https://fileproxy.miniurl.repl.co/?url=https%3A%2F%2Fsmokingwheels.github.io%2FPi-hole%2Fallhosts
