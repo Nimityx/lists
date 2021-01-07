@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 # Complete version + social below
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
 
+https://raw.githubusercontent.com/miniurl/hosts/main/hosts.txt
+
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
