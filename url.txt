@@ -6,5 +6,5 @@
 
 # List begin here
 
-# BitTorrent
+# BitTorrent trackers
 https://ngosang.github.io/trackerslist/trackers_all.txt
