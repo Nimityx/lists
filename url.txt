@@ -8,3 +8,4 @@
 
 # BitTorrent trackers
 https://ngosang.github.io/trackerslist/trackers_all.txt
+https://raw.githubusercontent.com/Nimityx/lists/main/src/cloned/url-1.txt
