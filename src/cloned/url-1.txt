@@ -1,6 +1,6 @@
 # Clone of https://bin.privacytools.io/?889186236cefd9c3#gKU2yVc8JUzgJ3AZf0xg36de9Wz09NwT+LupxsZWQJQ=
 
-# 23738238-f70b-4b94-bddb-76eaaf2adf7d@anonaddy.me    imdb yahoo
+# 23738238-f70b-4b94-bddb-76eaaf2adf7d [at] anonaddy.me    imdb yahoo
 
 udp://wambo.club:1337/announce
 udp://tracker.dutchtracking.com:6969/announce
