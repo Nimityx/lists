@@ -1,7 +1,9 @@
 # Title: Nimityx/lists/filter.txt
+# https://github.com/Nimityx/list
 #
-# This list of filter lists file is a merged collection of filter lists from reputable sources
+# This list of filter lists file is a merged collection of filter lists
 #
+# By Nimityx, https://github.com/Nimityx
 # ===============================================================
 
 # List begin here
