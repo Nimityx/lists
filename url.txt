@@ -1,7 +1,9 @@
 # Title: Nimityx/lists/url.txt
+# https://github.com/Nimityx/list
 #
-# This list of URL lists file is a merged collection of URL lists from reputable sources
+# This list of URL lists file is a merged collection of URL lists
 #
+# By Nimityx, https://github.com/Nimityx
 # ===============================================================
 
 # List begin here
