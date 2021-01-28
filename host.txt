@@ -1,7 +1,9 @@
 # Title: Nimityx/lists/host.txt
+# https://github.com/Nimityx/list
 #
-# This list of host lists file is a merged collection of host lists from reputable sources
+# This list of host lists file is a merged collection of host lists
 #
+# By Nimityx, https://github.com/Nimityx
 # ===============================================================
 
 # List begin here
