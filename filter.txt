@@ -10,7 +10,8 @@
 
 https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
-https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noannoyance.txt
-https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt
 https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
+https://raw.githubusercontent.com/Nimityx/multipurpose-rules/main/rules.txt
+https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
